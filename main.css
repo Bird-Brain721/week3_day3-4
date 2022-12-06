@@ -102,11 +102,11 @@ img {
 }
 
 .sub_title {
+    font-family: 'Zen Dots', cursive;
     color: white;
     text-align: center;
-    font-size: 45px;
+    font-size: 35px;
     margin-top: 20px;
-    letter-spacing: 3px;
 }
 
 
