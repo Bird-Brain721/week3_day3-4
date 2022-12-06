@@ -1,0 +1,123 @@
+body,p,a,h1,h2,h3,html {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+html {
+    height: 2000px;
+}
+
+#landing_page {
+    background-image: url(htmlprojectassets/green-vegetables-on-brown-wooden-chopping-board-3952047.jpg);
+    background-size: cover;
+    background-position: 0px -130px;
+    background-repeat: none;
+    height: 660px;
+    margin-bottom: 15px;
+}
+
+img {
+    width: 540px;
+}
+
+#cooked_pasta {
+    height: 360px;
+}
+
+.text_container {
+    width: 600px;
+    margin: 110px auto;
+}
+
+.text_title {
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.text_body {
+    font-size: 25px;
+}
+
+
+.article1 {
+    background-color: #000000;
+    color: white;
+    flex-grow: 1;
+}
+
+.article2 {
+    background-color: #101010;
+    color: white;
+    flex-grow: 1;
+}
+
+.article3 {
+    background-color: #303030;
+    color: white;
+    flex-grow: 1;
+}
+
+
+#content1 {
+    height: 360px;
+    display: flex;
+    background-color: #000000;
+}
+
+#content2 {
+    height: 360px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+#content3 {
+    height: 360px;
+    display: flex;
+}
+
+
+.navigation {
+    padding-top: 25px;
+}
+
+
+.nav_container {
+    width: 1250px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid white;
+}
+
+.title {
+    width: 400px;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    margin: 0 auto;
+    border-bottom: 2px solid white;
+    padding-top: 160px;
+    padding-bottom: 10px;
+}
+
+.sub_title {
+    color: white;
+    text-align: center;
+    font-size: 45px;
+    margin-top: 20px;
+    letter-spacing: 3px;
+}
+
+
+.nav_title {
+    font-size: 20px;
+    color: white;
+}
+
+.nav_links a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 3px;
+}
